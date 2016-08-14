@@ -115,14 +115,20 @@ import org.scalatest.junit.JUnitRunner
    */
   test("sum of a few numbers") {
     assert(sum(List(1,2,0)) === 3)
+<<<<<<< HEAD
     assert(sum(List(2,-2,2)) === 2)
     assert(sum(List()) === 0)
+=======
+>>>>>>> 413828a8c5dcaf2ae71c636135074774bb63da11
   }
 
   test("max of a few numbers") {
     assert(max(List(3, 7, 2)) === 7)
+<<<<<<< HEAD
     assert(sum(List(2,-2,2)) === 2)
     assert(sum(List()) === 0)
+=======
+>>>>>>> 413828a8c5dcaf2ae71c636135074774bb63da11
   }
 
 

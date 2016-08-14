@@ -23,10 +23,14 @@ object Lists {
    * @param xs A list of natural numbers
    * @return The sum of all elements in `xs`
    */
+<<<<<<< HEAD
     def sum(xs: List[Int]): Int = {
     if(xs.isEmpty == true) 0
     else xs.head + sum(xs.tail)
   }
+=======
+    def sum(xs: List[Int]): Int = ???
+>>>>>>> 413828a8c5dcaf2ae71c636135074774bb63da11
   
   /**
    * This method returns the largest element in a list of integers. If the
@@ -41,6 +45,7 @@ object Lists {
    * @return The largest element in `xs`
    * @throws java.util.NoSuchElementException if `xs` is an empty list
    */
+<<<<<<< HEAD
     def max(xs: List[Int]): Int = {
     if(xs.isEmpty == true) 0
     else{
@@ -49,4 +54,7 @@ object Lists {
       else xs.head
     }
     }
+=======
+    def max(xs: List[Int]): Int = ???
+>>>>>>> 413828a8c5dcaf2ae71c636135074774bb63da11
   }
