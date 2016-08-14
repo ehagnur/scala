@@ -5,6 +5,7 @@ console
 compile
 test
 run
+<<<<<<< HEAD
 console
 compile
 console
@@ -14,3 +15,5 @@ run
 submit h.nuru@windowslive.com Courseera12#$
 submit h.nuru@windowslive.com submissionPassword
 submit h.nuru@windowslive.com cdSHgz1cjBRN6U8Y
+=======
+>>>>>>> 413828a8c5dcaf2ae71c636135074774bb63da11

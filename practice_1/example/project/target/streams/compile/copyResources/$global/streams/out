@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 [0m[[0mdebug[0m] [0mCopy resource mappings: [0m
 [0m[[0mdebug[0m] [0m	(/Users/hsalih/scala/practice_1/example/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.builds,/Users/hsalih/scala/practice_1/example/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.builds)[0m
+=======
+[debug] Copy resource mappings: 
+[debug] 	(/Users/hsalih/scala/practice_1/example/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.builds,/Users/hsalih/scala/practice_1/example/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.builds)
+>>>>>>> 413828a8c5dcaf2ae71c636135074774bb63da11
