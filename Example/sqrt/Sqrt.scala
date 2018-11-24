@@ -1,9 +1,9 @@
 object Sqrt extends App{
   val x: Double = args(0).toDouble
-  def sqrt(x: Double) = {
+  def sqrt(x: Double):Option[Double] = {
 	def abs(x: Double):Double = if(x<0) -x else x
 	def square(x: Double):Double = x * x
-  	def sqrtIter(guess: Double): Double =
+  	def sqrtIter(guess: Double): Option[Double] =
     		if (isGoodEnough(guess)) guess
     		else sqrtIter(improve(guess))
 
