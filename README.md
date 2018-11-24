@@ -1,6 +1,7 @@
-# scala
-To run code from command line
-#compile
->scalac <filename>.scala
-#run
->scala <filename>
+Compile code
+```scala
+scalac {program}.scala
+```
+Run program
+```scala
+scala {program}
